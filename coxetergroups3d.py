@@ -4,10 +4,9 @@ Date: Mar 6, 2019.
 
 Finite Reflection Groups
 
-This is a program to show that there are only four
+This is a program to show that there are only three standalone
 finite groups in three dimensions that are generated
 by reflections they contain: 
-The Dihedral group of order 2,
 The O*, or octahedral group together with -1, 
 The I*, or icosahedral group together with -1, and
 The O]T, the set of all symmetries of the tetrahedron.
